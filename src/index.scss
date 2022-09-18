@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;600;700&display=swap");
+
+body {
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --font-primary: "League Spartan", sans-serif;
+  --font-color: #411530;
+  --color-secondary: #f5fdb0;
+}
+h1,
+h2 {
+  font-family: "League spartan", sans-serif;
+}
+
+p {
+  font-size: 1rem;
+  color: #5e595c;
+}
