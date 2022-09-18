@@ -2,7 +2,6 @@ import React from "react";
 import "./skills.scss";
 import { images } from "../../constants";
 import { motion } from "framer-motion";
-import { animated } from "react-spring";
 
 const skills = () => {
   // eslint-disable-next-line react-hooks/rules-of-hooks
